@@ -205,9 +205,3 @@ adapter.optimize(optimizer, loss_fn, dataset)
 ```bash
 pytest tests/ -v
 ```
-
----
-
-## License
-
-MIT
